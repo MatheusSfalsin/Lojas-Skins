@@ -1,0 +1,76 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    },
+    {
+      "id": 7,
+      "amount": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Vestido Florado Moda Verão",
+      "price": 99.9,
+      "image": "https://2.bp.blogspot.com/-COAW-oapX30/WkvrHTaXf6I/AAAAAAABcQU/KHuJ4tXaxgIRCbvw8WQ-Eu3zYJ2c_JhfwCLcBGAs/s1600/vestido-floral.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Roupa Femenina Moda Verão",
+      "price": 59.9,
+      "image": "https://img.ltwebstatic.com/images2_pi/2018/04/11/15234367284184253119_thumbnail_750x.webp"
+    },
+    {
+      "id": 3,
+      "title": "Vestido Florado Moda Outono",
+      "price": 79.9,
+      "image": "https://img.romwe.com/images/romwe.com/201705/1494811078826350923_thumbnail_750x.webp"
+    },
+    {
+      "id": 5,
+      "title": "Roupa Florado Branco Moda Verão",
+      "price": 59.9,
+      "image": "https://img.ltwebstatic.com/images2_pi/2018/03/27/15221363643713509266_thumbnail_750x.webp"
+    },
+    {
+      "id": 6,
+      "title": "Roupa Florado Preto Girassol Moda Verão",
+      "price": 49.9,
+      "image": "https://img.ltwebstatic.com/images2_pi/2019/04/22/15559168823648770352_thumbnail_750x.webp"
+    },
+    {
+      "id": 4,
+      "title": "Roupa Florado Branco Moda Verão",
+      "price": 89.9,
+      "image": "https://img.ltwebstatic.com/images2_pi/2018/05/07/15256775003617853755_thumbnail_600x799.webp"
+    },
+    {
+      "id": 7,
+      "title": "Roupa Florado Branco Moda Verão",
+      "price": 119.9,
+      "image": "https://i.pinimg.com/originals/a8/3a/f2/a83af265627b5183e0ad1a8308bdc343.jpg"
+    }
+  ]
+}
